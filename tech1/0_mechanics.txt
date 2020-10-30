@@ -1,0 +1,30 @@
+技巧1 认识、命令
+x删除光标下的字符, hjkl, u, ctrl+r
+dd
+>G
+
+
+please delete the 'f' of "first"
+
+
+
+
+Line one
+    Line two
+        Line three
+            Line four
+
+            Line one
+            Line two
+            Line three
+            Line four
+
+            Line one
+            Line two
+            Line three
+            Line four
+
+            Line one
+            Line two
+            Line three
+            Line fou
