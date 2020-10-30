@@ -5,3 +5,10 @@ var foobar = foo + bar;
 // j.           j$.
 // j.           j$.
 // (光标移到行尾+";"；a光标后插入；i光标前插入；$移动到行尾；A移动到行尾并插入=$a)
+C = c$
+s = cl
+S = ^C
+I = ^i
+A = $a
+o = A
+O = ko
