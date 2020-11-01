@@ -1,3 +1,3 @@
 Delete more than one word
 // 比较d2w; 2dw; dw.;能重复就不用次数，因为你不一定数得对
-i have a couple of questions.
+i have some more questions. //c3w some more, 使用.的意义不大，使用次数的另一个好处是保留了一个干净、连贯的撤销历史记录
