@@ -1,4 +1,4 @@
 .blog,.news{background-image: url(/sprite.png);}
 .blog{background-position: 0px 0px}
 .news -180px 0px} //yyp复制上一行; cW修改该行第一个单词; 180<C-x>该行找到的第一个数字-180
-007
+010 //007表示8进制，vimrc中加入nrformats= 会让vim把所有数字都当成十进制，不管是不是以0开头的
