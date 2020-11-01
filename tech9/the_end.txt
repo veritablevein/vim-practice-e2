@@ -1,1 +1,2 @@
-The end is nigh
+The end is 
+//db删除光标前的单词，加x删除光标字符
