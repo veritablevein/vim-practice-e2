@@ -1,3 +1,4 @@
 .blog,.news{background-image: url(/sprite.png);}
 .blog{background-position: 0px 0px}
 .news -180px 0px} //yyp复制上一行; cW修改该行第一个单词; 180<C-x>该行找到的第一个数字-180
+007
